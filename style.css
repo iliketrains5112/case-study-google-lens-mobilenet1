@@ -1,0 +1,19 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+body{
+   text-align:center;
+}
+
+.images{
+    border-radius: 35px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    width: 300px;
+    height: 300px;
+}
+h1{
+    background-color: black;
+    color:white;
+}
